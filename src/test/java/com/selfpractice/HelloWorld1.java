@@ -12,6 +12,7 @@ public class HelloWorld1 {
 	@Test
 	public  void  message() {
 		System.out.println("Hello World");
+		System.out.println("Now test will execute");
 	}
 
 
