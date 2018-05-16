@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="145" started-at="2018-05-16T18:40:25Z" finished-at="2018-05-16T18:40:25Z">
+  <suite name="Suite" duration-ms="96" started-at="2018-05-16T18:46:34Z" finished-at="2018-05-16T18:46:34Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="145" started-at="2018-05-16T18:40:25Z" finished-at="2018-05-16T18:40:25Z">
+    <test name="Test" duration-ms="96" started-at="2018-05-16T18:46:34Z" finished-at="2018-05-16T18:46:34Z">
       <class name="com.selfpractice.HelloWorld1">
-        <test-method status="PASS" signature="message()[pri:0, instance:com.selfpractice.HelloWorld1@44c8afef]" name="message" duration-ms="31" started-at="2018-05-16T18:40:25Z" finished-at="2018-05-16T18:40:25Z">
+        <test-method status="PASS" signature="message()[pri:0, instance:com.selfpractice.HelloWorld1@44c8afef]" name="message" duration-ms="31" started-at="2018-05-16T18:46:34Z" finished-at="2018-05-16T18:46:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- message -->
       </class> <!-- com.selfpractice.HelloWorld1 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
