@@ -23,6 +23,7 @@ public class HelloWorld1 {
 			}}catch(Exception e) {
 				System.out.println(e);
 			}
+		System.out.println("Hello World");
 		}}
 		
 	
